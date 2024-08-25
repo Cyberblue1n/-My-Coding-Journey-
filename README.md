@@ -9,7 +9,6 @@ This repository is a collection of coding problems I solve when i got free time,
 Day: (1....n)
 Problem Type: (Easy/ Medium /Hard)
 Topics: (DSA/ Algorithm/ Basic/ AI-ML/ DBMS/ Problem solving/ etc...)
-Language: (C/ Java/ Python/ JS/ C++/ SQL/etc..)
+Language: (C/ Java/ Python/ JS/ C++/Matlab/ SQL/etc..)
 Date: (Date of solving the program)
-Repeatation: (True/ False)
 Platform: (Hackerrank/ Leetcode/ Geeks for Geeks/ etc...)
