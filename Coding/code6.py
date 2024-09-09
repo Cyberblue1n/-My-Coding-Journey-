@@ -1,3 +1,4 @@
+#Python program to check whether the string is Symmetrical
 def issymetric(s):
     i = 0
     j = len(s)//2
