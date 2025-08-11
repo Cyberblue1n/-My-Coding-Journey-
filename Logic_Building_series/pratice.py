@@ -1,11 +1,15 @@
+def maxProduct(arr):
+    max_val = float('-inf')
+    sum = 1
+    for i in arr:
+        sum*=i
+        if sum>max_val:
+            max_val = sum
+        if sum<0:
+            sum = 1
+            
+    return max_val
 
-def check_even(num):
-    n = str(num)
-    for i in n:
-        if int(i)%2!=0:
-            return False
-    return True
 
-n = 2222220222
-
-print(check_even(n))
+arr = [-2, 6, -3, -10, 0, 2]
+print(maxProduct(arr))
