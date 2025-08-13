@@ -1,4 +1,6 @@
 '''
+Ask By Company -: zoho , rockstand
+
 Q1. Given two arrays a[] and b[],the task is to find the number of elements 
 in the union between these two arrays.
 
