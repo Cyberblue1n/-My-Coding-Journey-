@@ -1,0 +1,3 @@
+class encapsulation:
+    def food():
+        
