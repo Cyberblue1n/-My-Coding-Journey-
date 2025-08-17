@@ -8,7 +8,7 @@ This repository is a collection of coding problems I solve when i got free time,
 # Description Information
 Day: (1....n)<br>
 Problem Type: (Easy/ Medium /Hard)<br>
-Topics: (DSA/ Algorithm/ Basic/ AI-ML/ DBMS/ Problem solving/ etc...)<br>
-Language: (C/ Java/ Python/ JS/ C++/Matlab/ SQL/etc..)<br>
+Topics: (DSA/ AI-ML/ DBMS/ Problem solving/ etc...)<br>
+Language: (Java/ Python/ JS/ SQL/etc..)<br>
 Date: (Date of solving the program)<br>
 Platform: (Hackerrank/ Leetcode/ Geeks for Geeks/ etc...)<br>
