@@ -1,5 +1,5 @@
-1. moves zeros to the end = leetcode (283)
-2. Array Subset of another array
-3. second largest element in an array
-4. Stock Buy and Sell – Max one Transaction Allowed
-5. Kadane's Algo
+Sum Pair closest to target (GFG)
+moves zeros to the end = leetcode (283)
+Array Subset of another array
+second largest element in an array
+Stock Buy and Sell – Max one Transaction Allowed
