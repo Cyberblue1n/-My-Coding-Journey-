@@ -1,5 +1,5 @@
-Sum Pair closest to target (GFG)
-moves zeros to the end = leetcode (283)
+Sum Pair closest to target (GFG) - revised 1 time
 Array Subset of another array
-second largest element in an array
 Stock Buy and Sell – Max one Transaction Allowed
+Count Pairs whose sum is less than target
+2 Sum - Count Pairs with given Sum in Sorted Array
