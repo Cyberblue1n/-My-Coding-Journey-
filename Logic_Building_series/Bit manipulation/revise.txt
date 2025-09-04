@@ -1,0 +1,2 @@
+Find Only Repetitive Element from 1 to n-1  -- GFG
+Missing in Array -- GFG
